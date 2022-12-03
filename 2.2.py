@@ -13,7 +13,7 @@ class Vacancy:
     }
 
     def __init__(self, vacancy):
-        self.name = vacancy['имя']
+        self.name = vacancy['name']
         self.salary_from = int(float(vacancy['salary_from']))
         self.salary_to = int(float(vacancy['salary_to']))
         self.salary_currency = vacancy['salary_currency']
