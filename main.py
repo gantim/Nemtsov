@@ -78,7 +78,7 @@ class InputConnect:
     def __init__(self):
         # self.file_name = input("Введите название файла: ")
         self.file_name = "vacancies_by_year.csv"
-        self.profession_name = input("Введите название профессии: ")
+        self.profession_name = input("123 название профессии: ")
         # self.profession_name = "Программист"
 
     @staticmethod
