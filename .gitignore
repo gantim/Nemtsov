@@ -1,3 +1,7 @@
-/.idea
-/venv
-/path/to/vacancies.csv
+.idea
+*.csv
+*.db
+report.pdf
+report.xlsx
+graph.png
+venv
